@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Invoice-generator-using-Java-Swing-and-MySQL](https://github.com/AnonyMyke/Invoice-generator-using-Java-Swing-and-MySQL)
+- 🔭 I’m currently working on [<<nothing>>](https://github.com/AnonyMyke/Invoice-generator-using-Java-Swing-and-MySQL)
 
 - 🌱 I’m currently learning **Network Engineering and Microprocessor Technology**
 
 - 💬 Ask me about **Infosec and Electrical Engineering**
 
-- 📫 How to reach me **mike.researchke@gmail.com**
+- 📫 How to reach me **redacted@email.com**
 
 - ⚡ Fun fact **I am not funny. Never been.**
 
